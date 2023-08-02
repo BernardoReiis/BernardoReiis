@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bernardo Reis
 
-Computer Science and Engineering student at NOVA School of Science and Technology and a Web 3 Enthusiast
+A Computer Science and Engineering student at NOVA School of Science and Technology and a Web 3 Enthusiast
 
 #### Find me at: 
 

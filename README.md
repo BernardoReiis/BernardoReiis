@@ -1,6 +1,21 @@
 ### I'm Bernardo Reis
 
-A Computer Science and Engineering student at NOVA School of Science and Technology and a Web 3 Enthusiast
+I'm a Software Engineer excited about AI and Web3. Here's a little bit about me:
+
+#### 🚀 About Me
+- 🛠️ Working at **Pulsar Finance**.
+- 🎓 Master's Degree in Computer Science and Engineering at **NOVA School of Science and Technology** in Lisbon.
+
+#### ✨ Contributions
+- 📝 Finished my Thesis entitled: "Explanations of Neural Networks with Logic Tensor Networks".
+- 🏆 Winner of the ETH Barcelona 2023 Hackathon.
+
+#### 💻 Interests & Skills
+- **Interests**: AI, Web3, and DeFi.
+- **Programming Languages**: Python, Java, Rust, Go.
+- **Frameworks & Libraries**: React Native, TensorFlow.
+
+#### 🌊 Hobbies: Gym and Surfing, Always chasing the perfect wave.
 
 #### Find me at: 
 
